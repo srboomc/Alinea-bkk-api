@@ -5,7 +5,7 @@
             "name":"Dream dress",
             "category":"Dress",
             "price":1690,
-            "image":"./images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["Free size"],
             "color":["black","beige","olive green"],
             "popular":true
@@ -15,7 +15,7 @@
             "name":"Sign dress",
             "category":"Dress",
             "price":1290,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/sign_dress.jpg",
             "size":["Free size"],
             "color":["white"],
             "popular":false
@@ -25,7 +25,7 @@
             "name":"Sally knit dress",
             "category":"Dress",
             "price":1090,
-            "image":"./images/sally-knit-dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/sally_knit_dress.jpg",
             "size":["Free size"],
             "color":["beige"],
             "popular": false
@@ -35,7 +35,7 @@
             "name":"Plew dress",
             "category":"Dress",
             "price": 1190,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["Free size"],
             "color":["pink"],
             "popular":true
@@ -45,7 +45,7 @@
             "name":"Flow shirt",
             "category":"Top",
             "price":1190,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["One size"],
             "color":["red","blue","black","white"],
             "popular":true
@@ -55,7 +55,7 @@
             "name":"Chino crop",
             "category":"Top",
             "price":1090,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["Free size"],
             "color":["white"],
             "popular":true
@@ -65,7 +65,7 @@
             "name":"Matty crop",
             "category":"Top",
             "price":990,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["S","M","L"],
             "color":["navy","beige"],
             "popular":true
@@ -75,7 +75,7 @@
             "name":"Ally crop top",
             "category":"Top",
             "price":590,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["Free size"],
             "color":["white"],
             "popular":false
@@ -85,7 +85,7 @@
             "name":"Matty pants",
             "category":"Pants",
             "price":1290,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["S","M","L"],
             "color":["beige","navy"],
             "popular":true
@@ -95,7 +95,7 @@
             "name":"Matty shorts",
             "category":"Pants",
             "price":1090,
-            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["S","M","L"],
             "color":["beige","navy"],
             "popular":true
