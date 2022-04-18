@@ -8,7 +8,8 @@
             "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
             "size":["Free size"],
             "color":["black","beige","olive green"],
-            "popular":true
+            "popular":true,
+            "newCollection":true
         },
         {
             "id":2,
@@ -18,7 +19,8 @@
             "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/sign_dress.jpg",
             "size":["Free size"],
             "color":["white"],
-            "popular":false
+            "popular":false,
+            "newCollection":true
         },
         {
             "id":3,
@@ -28,77 +30,85 @@
             "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/sally_knit_dress.jpg",
             "size":["Free size"],
             "color":["beige"],
-            "popular": false
+            "popular": false,
+            "newCollection":true
         },
         {
             "id":4,
             "name":"Plew dress",
             "category":"Dress",
             "price": 1190,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/plew_dress.jpg",
             "size":["Free size"],
             "color":["pink"],
-            "popular":true
+            "popular":false,
+            "newCollection":false
         },
         {
             "id":5,
             "name":"Flow shirt",
             "category":"Top",
             "price":1190,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/flow_shirt.jpg",
             "size":["One size"],
             "color":["red","blue","black","white"],
-            "popular":true
+            "popular":true,
+            "newCollection":false
         },
         {
             "id":6,
             "name":"Chino crop",
             "category":"Top",
             "price":1090,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/chino_crop.jpg",
             "size":["Free size"],
             "color":["white"],
-            "popular":true
+            "popular":true,
+            "newCollection":false
         },
         {
             "id":7,
             "name":"Matty crop",
             "category":"Top",
             "price":990,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/matty_crop.jpg",
             "size":["S","M","L"],
             "color":["navy","beige"],
-            "popular":true
+            "popular":true,
+            "newCollection":false
         },
         {
             "id":8,
             "name":"Ally crop top",
             "category":"Top",
             "price":590,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/ally_crop_top.jpg",
             "size":["Free size"],
             "color":["white"],
-            "popular":false
+            "popular":false,
+            "newCollection":false
         },
         {
             "id":9,
             "name":"Matty pants",
             "category":"Pants",
             "price":1290,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/matty_pants.jpg",
             "size":["S","M","L"],
             "color":["beige","navy"],
-            "popular":true
+            "popular":true,
+            "newCollection":false
         },
         {
             "id":9,
             "name":"Matty shorts",
             "category":"Pants",
             "price":1090,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/dream_dress.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/matty_shorts.jpg",
             "size":["S","M","L"],
             "color":["beige","navy"],
-            "popular":true
+            "popular":true,
+            "newCollection":false
         }
     ]
 }
