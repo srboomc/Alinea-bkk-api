@@ -1,0 +1,104 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Dream dress",
+            "category":"Dress",
+            "price":1690,
+            "image":"./images/dream_dress.jpg",
+            "size":["Free size"],
+            "color":["black","beige","olive green"],
+            "popular":true
+        },
+        {
+            "id":2,
+            "name":"Sign dress",
+            "category":"Dress",
+            "price":1290,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["Free size"],
+            "color":["white"],
+            "popular":false
+        },
+        {
+            "id":3,
+            "name":"Sally knit dress",
+            "category":"Dress",
+            "price":1090,
+            "image":"./images/sally-knit-dress.jpg",
+            "size":["Free size"],
+            "color":["beige"],
+            "popular": false
+        },
+        {
+            "id":4,
+            "name":"Plew dress",
+            "category":"Dress",
+            "price": 1190,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["Free size"],
+            "color":["pink"],
+            "popular":true
+        },
+        {
+            "id":5,
+            "name":"Flow shirt",
+            "category":"Top",
+            "price":1190,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["One size"],
+            "color":["red","blue","black","white"],
+            "popular":true
+        },
+        {
+            "id":6,
+            "name":"Chino crop",
+            "category":"Top",
+            "price":1090,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["Free size"],
+            "color":["white"],
+            "popular":true
+        },
+        {
+            "id":7,
+            "name":"Matty crop",
+            "category":"Top",
+            "price":990,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["S","M","L"],
+            "color":["navy","beige"],
+            "popular":true
+        },
+        {
+            "id":8,
+            "name":"Ally crop top",
+            "category":"Top",
+            "price":590,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["Free size"],
+            "color":["white"],
+            "popular":false
+        },
+        {
+            "id":9,
+            "name":"Matty pants",
+            "category":"Pants",
+            "price":1290,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["S","M","L"],
+            "color":["beige","navy"],
+            "popular":true
+        },
+        {
+            "id":9,
+            "name":"Matty shorts",
+            "category":"Pants",
+            "price":1090,
+            "image":"https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-64gb-1-400x460.png",
+            "size":["S","M","L"],
+            "color":["beige","navy"],
+            "popular":true
+        }
+    ]
+}
