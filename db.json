@@ -93,7 +93,7 @@
             "name":"Matty pants",
             "category":"Pants",
             "price":1290,
-            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/matty_pants.jpg",
+            "image":"https://raw.githubusercontent.com/srboomc/Alinea-bkk-api/master/images/matty_crop.jpg",
             "size":["S","M","L"],
             "color":["beige","navy"],
             "popular":true,
